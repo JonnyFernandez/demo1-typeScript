@@ -107,3 +107,10 @@ Opcional - The paths to modules that run some code to configure or set up the te
 "test:watch": "jest --watch",
 "test:coverage": "jest --coverage",
 ```
+
+5. Instalar axios
+
+```
+npm install axios
+npm install -D @types/axios
+```
